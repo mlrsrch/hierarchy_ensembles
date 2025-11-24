@@ -1,0 +1,119 @@
+,did,name,short,n_class,n_sample,n_feats (num+sym),tags,class_counts
+0,46880,air-quality-and-pollution-assessment,air-quality-and-pollution,4.0,5000.0,9 (9+0),['Environmental Sciences'],[2000  500 1500 1000]
+1,46773,alizadeh-2000-v2,alizadeh-2000-v2,3.0,62.0,2093 (2093+0),"['Health', 'Medicine', 'Hematology & Oncology', 'Bioinformatics']",[11 42  9]
+2,1457,amazon-commerce-reviews,amazon-commerce-reviews,50.0,1500.0,10000 (10000+0),"['Marketing', 'Consumer Behavior', 'Sentiment Analysis']","[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30]"
+3,454,analcatdata_halloffame,analcatdata-halloffame,3.0,1340.0,15 (14+1),['Sports'],[1215   57   68]
+4,40709,analcatdata_happiness,analcatdata-happiness,3.0,60.0,3 (1+2),['Psychology'],[20 20 20]
+5,2,anneal,anneal,5.0,898.0,9 (6+3),['Manufacturing'],[  8  99 684  67  40]
+6,5,arrhythmia,arrythmia,9.0,412.0,278 (205+73),"['Health', 'Medicine', 'Cardiology']",[237  48  18  36  13  14  13  24   9]
+7,1459,artificial-characters,artificial-characters,10.0,10218.0,7 (7+0),"['Chemistry', 'Life Science', 'Synthetic']",[1196  600 1192 1416  808 1008 1000  800 1198 1000]
+8,44200,AutoMLSelectorMulticlass,auto-ml-selector,5.0,96.0,15 (15+0),"['Software Engineering', 'Human–Computer Interaction']",[21 53  8  9  5]
+9,1548,autoUniv-au4-2500,auto-univ-au4-2500,3.0,2500.0,100 (58+42),['Data Science'],[1131 1173  196]
+10,1552,autoUniv-au7-1100,auto-univ-au7-1100,5.0,1100.0,12 (8+4),['Data Science'],[153 246 216 180 305]
+11,4552,BachChoralHarmony,bach,68.0,5586.0,16 (2+14),['Music'],"[  5 352  16  56   5 258  10  11  37 143  46  17   8 217  19 312   5  26
+   6  39   7  10  15  24   9 488  16   6  66 144  17  20   7 503  16  58
+ 165  12  33  21 295  14  43   6 241  14  24 146  90  12  34  14 143   7
+  19 389  14  38  42   7  11   6   6 489   8  52 179  18]"
+12,185,baseball,baseball,3.0,1340.0,15 (14+1),"['Sports', 'Analytics']",[1215   57   68]
+13,327,bridges,bridges,6.0,104.0,5 (1+4),['Transportation'],[13 11 10 43 11 16]
+14,40663,calendarDOW,calendar-dow,5.0,399.0,32 (12+20),['Transportation'],[44 83 95 96 81]
+15,455,cars,cars,3.0,406.0,5 (4+1),"['Automobiles',  'Transportation']",[254  73  79]
+16,46829,Cervical_Cancer_Risk_Factors,cervical-cancer-risk,5.0,858.0,6 (6+0),"['Health', 'Medicine', 'Gynecology & Oncology']",[756  55  10  17  20]
+17,40711,cleveland-nominal,cleveland-nominal,5.0,303.0,7 (0+7),"['Health', 'Medicine', 'Cardiology']",[164  55  36  35  13]
+18,1468,cnae-9,cnae-9,9.0,1080.0,856 (856+0),"['Business', 'Life Science']",[120 120 120 120 120 120 120 120 120]
+19,40971,collins,collins,30.0,1000.0,19 (19+0),['Linguistics'],"[44 27 17 17 36 48 75 30 80 29 24  6 29 29  9 44 27 17 17 36 48 75 30 80
+ 29 24  6 29 29  9]"
+20,46786,deng-reads,deng-reads,9.0,264.0,22959 (22958+1),"['Molecular Biology', 'Bioinformatics', 'Genetics']",[50 14 37  8 43 10 30 12 60]
+21,43035,dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc,dgf,5.0,698.0,39 (9+30),"['Transportation', 'Images']",[237 398  42  11  10]
+22,45069,Diabetes130US,diabetes-130-us,3.0,101766.0,40 (11+29),"['Health', 'Medicine', 'Endocrinology', 'Epidemiology']",[11357 35545 54864]
+23,694,diggle_table_a2,diggle-table-a2,9.0,310.0,8 (8+0),"['Statistics', 'StatLib', 'trivial']",[18 41 39 40 35 38 40 39 20]
+24,46480,EDA-Home-Mortgage-NY-2,eda-mortgage-ny,6.0,87930.0,18 (18+0),['Business'],[45611  2836 15939  7899  3347 12298]
+25,1472,energy-efficiency,energy-efficiency,30.0,750.0,9 (8+1),"['Energy', 'Construction', 'Life Science']","[20 13  5 33 22 16  8 19 45 55 20 43 34  9 24 25 12 54 20 12  9  5  8  8
+ 58 44 74 10 35 10]"
+26,46515,Financial-Risk-Assessment-Preprocessed,financial-risk-assessment,3.0,15000.0,15 (15+0),"['Finance', 'Economics', 'Data Science']",[9000 4500 1500]
+27,285,flags,flags,6.0,186.0,28 (2+26),"['Demographics', 'Geography']",[40 60 36  8 27 15]
+28,46184,Flare,flare,6.0,1066.0,11 (0+11),"['Astrophysics', 'Solar Physics']",[147 211 239  95  43 331]
+29,46764,football-player-position,football-player-position,4.0,3611.0,11 (11+0),['Sports'],[1088  600  345 1578]
+30,46780,golub-1999-v2,golub-1999-v2,3.0,72.0,1868 (1868+0),"['Health', 'Medicine', 'Hematology', 'Oncology']",[38  9 25]
+31,329,hayes-roth,hayes-roth,3.0,160.0,4 (4+0),"['Animals', 'Psychology']",[65 64 31]
+32,1565,heart-h,heart-h,5.0,294.0,13 (13+0),"['Health', 'Medicine', 'Cardiology']",[188  37  26  28  15]
+33,1513,heart-switzerland,heart-switzerland,5.0,123.0,12 (12+0),"['Health', 'Medicine', 'Cardiology']",[ 8 48 32 30  5]
+34,41169,helena,helena,100.0,65196.0,27 (27+0),"['Software Engineering', 'Human–Computer Interaction']","[ 466  291  111  479  436  385  321  541  358 2210  224  132  141  845
+  310  262  509  227  719  737  327  264  846  257  581  230  119  122
+  116  129  183  339 2216 2623  439 2992  179  145  600  316  337  588
+  196  822  212  272  190  397  551  146  133 3063  121 1794  212 1302
+ 1096  382  453  190  952  680  168  439  535  236 2172  500  297  326
+  567  299  142  121  544 1827 4005 1274  188  214  166  374  232  177
+  765  443 1002 1856  351  797  128 1939 1811  411  180  162 1188 1822
+  305  417]"
+35,1087,hepatitisC,hepatitis-c,3.0,283.0,54621 (54621+0),"['Health', 'Medicine', 'Endocrinology']",[ 18  20 245]
+36,57,hypothyroid,hypothyroid,3.0,3769.0,22 (1+21),"['Health', 'Medicine', 'Hepatology']",[ 194 3480   95]
+37,46936,internet_firewall,internet-firewall,4.0,65532.0,11 (11+0),['Data Science'],[37640 14987 12851    54]
+38,381,ipums_la_98-small,ipums-la-98-small,7.0,7485.0,43 (0+43),"['Demographics', 'History']",[4802  726  860  412  401  213   71]
+39,378,ipums_la_99-small,ipums-la-99-small,7.0,8844.0,42 (0+42),"['Demographics',  'History']",[5803  710  901  403  560  270  197]
+40,46781,khan-2001,khan-2001,4.0,83.0,1069 (1069+0),"['Health', 'Medicine', 'Cancer Genomics', 'Bioinformatics & Computational Biology']",[11 29 18 25]
+41,184,kropt,kropt,18.0,28056.0,6 (0+6),"['Board Games', 'Games']","[2796 1433 2854 2166  471  198 4553 1712   78  683  592  390 1985 4194
+   81 3597  246   27]"
+42,40677,led24,led24,10.0,3200.0,24 (0+24),"['Data Science', 'Synthetic']",[327 302 329 335 296 327 337 320 308 319]
+43,40496,LED-display-domain-7digit,led-7digit,10.0,500.0,7 (7+0),"['Data Science', 'Synthetic']",[45 49 37 51 57 52 52 47 57 53]
+44,45092,Leukemia,leukemia,3.0,68.0,7129 (7129+0),"['Health', 'Medicine', 'Hematology', 'Oncology']",[38 21  9]
+45,45093,Lung,lung,5.0,203.0,12600 (12600+0),"['Health', 'Medicine', 'Cancer Genomics', 'Bioinformatics & Computational Biology']",[139  17   6  21  20]
+46,1084,BurkittLymphoma,lymphoma-burkitt,3.0,220.0,22283 (22283+0),"['Health', 'Medicine', 'Cancer Genomics', 'Bioinformatics & Computational Biology']",[ 48  44 128]
+47,46264,mabbob_ela_as_2d_classify,mabbob-ela-as-2d,5.0,1120.0,45 (45+0),"['Data Science', 'Software Engineering']",[205  22  18 656 219]
+48,46879,mental_health_detection,mental-health-detection,4.0,540.0,14 (14+0),"['Health', 'Psychology', 'Epidemiology']",[128 120 174 118]
+49,275,meta_all.arff,meta-all,3.0,63.0,62 (62+0),"['Data Science', 'Statistics']",[42 11 10]
+50,276,meta_batchincremental.arff,meta-batchincremental,3.0,71.0,62 (62+0),"['Data Science', 'Statistics']",[16  5 50]
+51,278,meta_instanceincremental.arff,meta-instanceincremental,3.0,71.0,62 (62+0),"['Data Science', 'Statistics']",[54  8  9]
+52,14,mfeat-fourier,mfeat-fourier,10.0,2000.0,76 (76+0),"['Data Science', 'Pattern Recognition', 'Images']",[200 200 200 200 200 200 200 200 200 200]
+53,22,mfeat-zernike,mfeat-zernike,10.0,2000.0,47 (47+0),"['Data Science', 'Pattern Recognition', 'Images']",[200 200 200 200 200 200 200 200 200 200]
+54,46944,Mobile_Price,mobile-price,4.0,2000.0,20 (14+6),['Data Science'],[500 500 500 500]
+55,45067,okcupid_stem,okcupid-stem,3.0,26677.0,13 (2+11),"['Social Science', 'Psychology']",[19209  4654  2814]
+56,42793,olindda_outliers,olindda-outliers,4.0,75.0,2 (2+0),['Data Mining'],[30 12 18 15]
+57,1086,ovarianTumour,ovarian-tumour,3.0,283.0,54621 (54621+0),"['Health', 'Medicine', 'Gynecology & Oncology', 'Molecular Biology']",[ 18  20 245]
+58,30,page-blocks,page-blocks,5.0,5473.0,10 (10+0),"['Pattern Recognition', 'Document Analysis']",[4913  329   28   88  115]
+59,339,pasture,pasture,3.0,36.0,22 (21+1),"['Environmental Science', 'Agriculture']",[12 12 12]
+60,457,prnn_cushings,prnn-cushings,3.0,25.0,2 (2+0),"['Health', 'Medicine', 'Endocrinology']",[ 7 12  6]
+61,395,re1.wc,re1-wc,25.0,1657.0,3758 (3758+0),"['Business', 'Statistics', 'Word Count']","[ 31  20  48  99  37  17 330  20  19  87 371  31  42  15  27  50  13  18
+  32 137 106  18  60  19  10]"
+62,679,rmftsa_sleepdata,rmftsa-sleepdata,4.0,1024.0,2 (2+0),"['Sleep Medicine', 'Biomedical Signal Processing', 'Health Monitoring']",[404  94 237 289]
+63,1516,robot-failures-lp1,robot-failures-lp1,4.0,88.0,90 (90+0),"['Robotics', 'Automation']",[17 16 21 34]
+64,1517,robot-failures-lp2,robot-failures-lp2,5.0,47.0,90 (90+0),"['Robotics', 'Automation']",[ 7  6  9 20  5]
+65,1077,rsctc2010_1,rsctc2010-1,3.0,105.0,22283 (22283+0),"['Bioinformatics', 'Medical Diagnostics', 'Data Mining', 'Rough Set Theory']",[40 58  7]
+66,1078,rsctc2010_2,rsctc2010-2,3.0,105.0,22283 (22283+0),"['Bioinformatics', 'Medical Diagnostics', 'Data Mining', 'Rough Set Theory']",[40 58  7]
+67,1079,rsctc2010_3,rsctc2010-3,5.0,95.0,22277 (22277+0),"['Bioinformatics', 'Medical Diagnostics', 'Data Mining', 'Rough Set Theory']",[23  5 27 20 20]
+68,1080,rsctc2010_4,rsctc2010-4,5.0,113.0,54675 (54675+0),"['Bioinformatics', 'Medical Diagnostics', 'Data Mining', 'Rough Set Theory']",[11 31 51 10 10]
+69,1082,rsctc2010_6,rsctc2010-6,5.0,92.0,59004 (59004+0),"['Bioinformatics', 'Medical Diagnostics', 'Data Mining', 'Rough Set Theory']",[11  7 14 53  7]
+70,46955,SDSS17,sdss17,3.0,78053.0,11 (9+2),"['Astronomy', 'Astrophysics', 'Pattern Recognition']",[47613 13994 16446]
+71,36,segment,segment,7.0,2310.0,19 (19+0),"['Data Science', 'Pattern Recognition', 'Images']",[330 330 330 330 330 330 330]
+72,40685,shuttle,shuttle,7.0,58000.0,9 (9+0),['Transport'],[45586    50   171  8903  3267    10    13]
+73,42,soybean,soybean,19.0,682.0,3 (0+3),['Agriculture'],[15 91 44 20 20 92 44 20 14 15 20 20 91  8 20 88 20 20 20]
+74,313,spectrometer,spectrometer,22.0,480.0,101 (100+1),['Astronomy'],[10 24 13 12 26 15 27 31 19 19 30 35 42 55  9 10  7  8 45 20 18  5]
+75,46960,students_dropout_and_academic_success,students-academic-success,3.0,4424.0,36 (19+17),"['Education', 'Social Science', 'Data Science']",[1421  794 2209]
+76,40474,thyroid-allbp,thyroid-allbp,5.0,2800.0,26 (6+20),"['Health', 'Medicine', 'Endocrinology', 'Biomedical Informatics']",[1632   91  275   31  771]
+77,40475,thyroid-allhyper,thyroid-allhyper,5.0,2800.0,26 (6+20),"['Health', 'Medicine', 'Endocrinology', 'Biomedical Informatics']",[1632   91  275   31  771]
+78,40476,thyroid-allhypo,thyroid-allhypo,5.0,2800.0,26 (6+20),"['Health', 'Medicine', 'Endocrinology', 'Biomedical Informatics']",[1632   91  275   31  771]
+79,40477,thyroid-allrep,thyroid-allrep,5.0,2800.0,26 (6+20),"['Health', 'Medicine', 'Endocrinology', 'Biomedical Informatics']",[1632   91  275   31  771]
+80,40478,thyroid-dis,thyroid-dis,5.0,2800.0,26 (6+20),"['Health', 'Medicine', 'Endocrinology', 'Biomedical Informatics']",[1632   91  275   31  771]
+81,45084,11_Tumors,tumors-11,11.0,174.0,12533 (12533+0),"['Health', 'Medicine', 'Oncology', 'Biomedical Informatics']",[27  8 14 26 23 12 11  7 26  6 14]
+82,685,visualizing_livestock,visualizing-livestock,5.0,130.0,2 (1+1),"['Animal Science', 'Precision Agriculture', 'Farm Management', 'Computer Vision']",[26 26 26 26 26]
+83,1528,volcanoes-a2,volcanoes-a2,5.0,1623.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[1471   35   29   44   44]
+84,1529,volcanoes-a3,volcanoes-a3,5.0,1521.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[1369   35   29   44   44]
+85,1531,volcanoes-b1,volcanoes-b1,5.0,10176.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[9791   26   74   74  211]
+86,1533,volcanoes-b3,volcanoes-b3,5.0,10386.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[10006    25    75    72   208]
+87,1534,volcanoes-b4,volcanoes-b4,5.0,10190.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[9805   26   75   73  211]
+88,1536,volcanoes-b6,volcanoes-b6,5.0,10130.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[9746   26   73   74  211]
+89,1538,volcanoes-d1,volcanoes-d1,5.0,8753.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[8265   56  115  236   81]
+90,1539,volcanoes-d2,volcanoes-d2,5.0,9172.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[8670   56  117  239   90]
+91,1540,volcanoes-d3,volcanoes-d3,5.0,9285.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[8771   58  119  241   96]
+92,1541,volcanoes-d4,volcanoes-d4,5.0,8654.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[8163   56  115  236   84]
+93,1542,volcanoes-e1,volcanoes-e1,5.0,1183.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[1083    9   21   49   21]
+94,1544,volcanoes-e3,volcanoes-e3,5.0,1277.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[1170    9   21   53   24]
+95,1546,volcanoes-e5,volcanoes-e5,5.0,1112.0,3 (3+0),"['Planetary Sciences', 'Geology', 'Remote Sensing']",[1010    9   21   52   20]
+96,1509,walking-activity,walking-activity,22.0,149332.0,4 (4+0),"['Healthcare', 'Sports']","[ 3086  1129  4936  5636  3729  3457  7988  4799  6699 12027  3653   911
+  1728 21991 20758  5069 16949  3082  9698  3882  1144  6981]"
+97,40691,wine-quality-red,wine-quality-red,6.0,1599.0,11 (11+0),"['Human Activities', 'Wine']",[ 10  53 681 638 199  18]
+98,40498,wine-quality-white,wine-quality-white,7.0,4898.0,11 (11+0),"['Human Activities', 'Wine']",[  20  163 1457 2198  880  175    5]
+99,62,zoo,zoo,6.0,97.0,16 (16+0),['Animals'],[20 13  8 10 41  5]
+100,,,,,,,,
