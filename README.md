@@ -1,4 +1,4 @@
-<img width="700" height="160" alt="fig_flowchart_small" src="https://github.com/user-attachments/assets/cbd2a000-49f8-49eb-a839-deaa8e64444e" />
+<img width="936" height="210" alt="fig_flowchart_small" src="https://github.com/user-attachments/assets/b2db4920-7b4e-41ff-98c6-26e7dfac75d1" />
 
 **HiGEC**  
 **Hierarchy Generation and Extended Classification Framework**  
@@ -103,7 +103,8 @@ Performance Comparison:
 ```
 
 Generated Hierarchy:  
-![example_hierarchy](https://github.com/user-attachments/assets/96e78795-541b-41a1-a7bb-a945b65411fa)
+![example_hierarchy](https://github.com/user-attachments/assets/3c7e8d43-bc28-4d55-8283-a216a0c105be)
+
 
 ---
 </details>
@@ -117,12 +118,11 @@ HiGEC was evaluated on **100 multi-class tabular datasets**, showing consistent 
 
 ### Mean F1 Comparison (HiGEC vs FC)
 
-<img width="1476" height="387" alt="fig_mcm_higec_vs_fc" src="https://github.com/user-attachments/assets/614581db-e193-44dc-a5d2-998db14887b5" />
-
+<img width="1476" height="387" alt="fig_mcm_higec_vs_fc" src="https://github.com/user-attachments/assets/00b9f9d3-6215-47b1-a840-5104698fc262" />
 
 ### Mean F1 Scores & Standard Deviations
 
-![table](https://github.com/user-attachments/assets/b7b5a00c-e597-4576-bc19-b1d881d66541)
+![fig_table](https://github.com/user-attachments/assets/6b644e2a-11d6-403b-99a4-7dae747f5798)
 
 ---
 
