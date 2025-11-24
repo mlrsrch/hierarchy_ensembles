@@ -7,14 +7,14 @@ from sklearn.cluster import (MeanShift,
                              AffinityPropagation,
                              KMeans,
                              DBSCAN,)
-# from sklearn_extra.cluster import KMedoids
+from sklearn_extra.cluster import KMedoids
 from sklearn.mixture import GaussianMixture
 from HE import hier_node
 
 n_clust=2
 rs = None
 _clust_dict ={
-    # 'kmed'  : KMedoids(n_clusters=n_clust, metric='euclidean', random_state=rs),
+    'kmed'  : KMedoids(n_clusters=n_clust, metric='euclidean', random_state=rs),
     'affpro': AffinityPropagation(random_state=rs),
     'mshift': MeanShift(bandwidth=2),
     'kmeans': KMeans(n_clusters=n_clust, init='k-means++', n_init='auto', random_state=rs),

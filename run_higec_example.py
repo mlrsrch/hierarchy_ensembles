@@ -1,6 +1,3 @@
-import os
-os.chdir(os.path.dirname(__file__))
-
 import numpy as np
 from utils import loadOpenMLdata, class_labels_sanity_check, plot_dendrogram, get_score, parse_higec_string
 from sklearn.model_selection import train_test_split
@@ -16,19 +13,19 @@ import copy
 import warnings
 warnings.filterwarnings("ignore")
 
-PLOT_HIERARCHY=False
+PLOT_HIERARCHY=True
 DISPLAY_LINKAGE_TABLE=True
 
 # -----------------------------
 # CHOOSE DATASET
 # -----------------------------
-DID = 41       # OpenML Dataset ID
+DID = 46264       # OpenML Dataset ID
 DNAME = ''        # Dataset name (optional)
 
 # -----------------------------
 # HiGEC PARAMETERS
 # -----------------------------
-HiGEC = 'CMD[HAC|COMPLETE]-LCPN[RF]+F[RF]'
+HiGEC = 'CCM[HAC|COMPLETE]-LCPN[ETC]+F[XGB]'
 DISS_TYPE, BUILD_TYPE, BUILD_FUN, HE_TYPE, CLF_NAME_BASE, CLF_NAME_PF = parse_higec_string(HiGEC)
 
 # -----------------------------
@@ -48,10 +45,7 @@ RSEED = 0               # Random seed
 # "OUT OF BOX" CLASSIFIERS
 # -----------------------------
 CLFs={
-    'RF'  :RandomForestClassifier(max_depth=10, 
-                                                                  n_estimators=300, 
-                                                                  random_state=RSEED), 
-        #RandomForestClassifier(),    
+    'RF'  : RandomForestClassifier(),
     'XGB' : XGBClassifier(),
     'ETC' : ExtraTreesClassifier(),
     'LGB' : LGBMClassifier(verbose=-1),

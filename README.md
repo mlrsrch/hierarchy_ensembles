@@ -145,4 +145,3 @@ These CSV files allow full reproducibility and further statistical analysis of H
 For more details on methodology, datasets, and evaluations, see the HiGEC GitHub repository.
 
 </details>
-
